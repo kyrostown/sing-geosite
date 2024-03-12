@@ -11,7 +11,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sagernet/sing-box/common/geosite"
+	"github.com/Loyalsoldier/common/v2ray-rules-dat"
 	"github.com/sagernet/sing-box/common/srs"
 	C "github.com/sagernet/sing-box/constant"
 	"github.com/sagernet/sing-box/log"
